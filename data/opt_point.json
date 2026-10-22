@@ -1,0 +1,6 @@
+{
+  "description": "Placement of T, U, C, S (L fixed as the segment from (-1/2,0) to (1/2,0)) with the smallest hull area found by local minimization from 300 random starting points. Layout: (phi, t_x, t_y) for T, U, C, S, as in the paper; angles reduced to the root box of the certificate.",
+  "p": [0.007137979118681859, -0.0049090227078216675, 0.14053482001021284, 1.6826540610310783, -0.05355116550118, 0.16160423503702567, 1.0341517366649278, -0.070669730567319, 0.06344690951398586, 2.0551540779344144, 0.0017475549340268772, 0.07021572367797604],
+  "hull_area_float": 0.24205381484,
+  "note": "hull area in double precision from the exact arc data; not part of the proof"
+}

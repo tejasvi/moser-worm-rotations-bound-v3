@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, the certificate or the Lean files, please cite the paper."
+title: "A lower bound for Moser's worm problem with rotations and translations"
+authors:
+  - family-names: Tomar
+    given-names: Tejasvi Singh
+    orcid: "https://orcid.org/0000-0003-4668-3639"
+license: Apache-2.0
+repository-code: "https://github.com/tejasvi/moser-worm-rotations-bound-v3"
+doi: 10.5281/zenodo.23553982
+preferred-citation:
+  type: article
+  title: "A lower bound for Moser's worm problem with rotations and translations"
+  authors:
+    - family-names: Tomar
+      given-names: Tejasvi Singh
+      orcid: "https://orcid.org/0000-0003-4668-3639"
+  doi: 10.5281/zenodo.23553979
+  year: 2026
